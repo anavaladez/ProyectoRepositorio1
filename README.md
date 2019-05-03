@@ -1,2 +1,2 @@
-# ProyectoRepositorio1
+# ProyectoRepositorio
 Proyecto de GitHub
